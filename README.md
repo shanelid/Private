@@ -1,0 +1,2 @@
+# FundingCoin
+Altcoin
